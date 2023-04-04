@@ -27,4 +27,4 @@ To use the application, you need to provide a valid Github API access token in t
 
 ## License
 
-This application is released under the MIT license. For more information, please see the `LICENSE` file.
+This application is released under the GNU General Public License v3.0. For more information, please see the `LICENSE` file.
